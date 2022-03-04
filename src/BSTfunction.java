@@ -9,7 +9,9 @@ public class BSTfunction extends Node {
 		a.right = null;
 		return a;
 	}
-	
+	/*
+	 * 1. Creating new node if there is no Binary Tree exists then
+	 */
 	public Node insert(Node node, int value)
 	{
 		if (node == null)
@@ -28,6 +30,9 @@ public class BSTfunction extends Node {
 		
 	}
 	
+	/*
+	 * 2. Method for printing the Binary Tree
+	 */
 	public void printBST(Node node)
 	{
 		if(node == null)
