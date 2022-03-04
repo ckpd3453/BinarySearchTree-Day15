@@ -4,8 +4,8 @@ public class BST3Driver {
 	/**
 	 * 
 	 * @param args 
-	 * UC-2:- To print the Binary Tree as given in the picture.
-	 * ===============================================================
+	 * UC-:-3.Ability to search 63 in the Binary Tree
+	 * ===============================================
 	 *   Procedure:- 
 	 *   ========== 
 	 *1. Creating object to access the function of function class 
